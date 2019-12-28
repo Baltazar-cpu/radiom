@@ -1,0 +1,17 @@
+:root{
+    font-family: 'American Typewriter', serif;
+    font-size: italic;
+    --main-color: black;
+    --accent-color: black;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: block;
+    background-color: white;
+    background-position: center;
+    width: 100%;
+    max-width: 920px;
+    margin: auto;
+}
+
